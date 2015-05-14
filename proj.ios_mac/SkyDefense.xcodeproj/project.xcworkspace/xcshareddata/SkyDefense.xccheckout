@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A1910ECC-5B82-4A7D-9571-796CD83C2D28</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SkyDefense</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C56EC50C024BFA9E9EA5B4AC1CB871D1BD9F32FD</key>
+		<string>https://github.com/xianggao2012/SkyDefense.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>proj.ios_mac/SkyDefense.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C56EC50C024BFA9E9EA5B4AC1CB871D1BD9F32FD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/xianggao2012/SkyDefense.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C56EC50C024BFA9E9EA5B4AC1CB871D1BD9F32FD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C56EC50C024BFA9E9EA5B4AC1CB871D1BD9F32FD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SkyDefense</string>
+		</dict>
+	</array>
+</dict>
+</plist>
